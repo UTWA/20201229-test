@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    <div class="red_title">color:blueviolet;</div></style>
+</head>
+<body>
+    <h1>
+            <h1 style="color: red;"
+    <em>我是標題</em></h1>
+    <h2> <h2 style="color: rgb(151, 149, 34);"
+    <ol>    
+        <li>    美食A</li>
+        <li>    美食B</li>
+        <li>    美食C</li></h2>
+    <h3>
+            
+    </ol>
+    <a href="https://www.msn.com/zh-tw/entertainment/viralvideo/%e8%b6%85%e9%ab%98%e5%91%bd%e4%b8%ad%e7%8e%87%e8%ae%93%e4%ba%ba%e5%82%bb%e7%9c%bc%ef%bc%81-%e7%a5%9e%e7%b4%9a%e5%b0%8f%e5%b0%84%e6%89%8b%e6%ba%96%e5%ba%a6%e5%ae%8c%e5%8b%9dcurry%e5%95%8a/ar-AAucHxf?li=AAazr0y&ocid=spartandhp">SU32J/</a>
+    <br/><a href="https://www.msn.com/zh-tw/entertainment/viralvideo/%e8%b6%85%e9%ab%98%e5%91%bd%e4%b8%ad%e7%8e%87%e8%ae%93%e4%ba%ba%e5%82%bb%e7%9c%bc%ef%bc%81-%e7%a5%9e%e7%b4%9a%e5%b0%8f%e5%b0%84%e6%89%8b%e6%ba%96%e5%ba%a6%e5%ae%8c%e5%8b%9dcurry%e5%95%8a/ar-AAucHxf?li=AAazr0y&ocid=spartandhp">我是</a>
+    <br/><a href="./123.html">回上衣頁美食</a><br/>
+    <br/><thead>
+        標標標</thead><table
+    border="1">
+        <tr>
+            <td>item1</td>
+            <td>item2</td>
+        </tr>
+        <tr>
+            <td>item3</td>
+            <td>item4</td>
+        </tr>
+    </table>
+    </h3>
+    <img src="../img/apple.jpg"
+    width="500"
+    height="500">
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/qIF8xvSA0Gw" frameborder="0" gesture="media" allowfullscreen></iframe>    
+    
+    </body>
+</html>
